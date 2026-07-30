@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/30536283/README.md)
-# 🎆 原神 · <img width="650" height="450" alt="组件预览图" src="https://github.com/user-attachments/assets/aeec4f91-72a8-49c4-af81-4e45e8ce165f" />
-宵宫 · 璀夜华宴 — Windows 自定义光标主题
+# 🎆 原神 · 宵宫 · 璀夜华宴 — Windows 自定义光标主题
 
 > 以《原神》角色「宵宫」的「璀夜华宴」皮肤为主题设计的 Windows 自定义光标方案。
+> 📦完整资源包前往上方宵宫-璀夜华宴-光标主题_v2.ZIP下载 v1.0
 
 [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
